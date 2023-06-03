@@ -10,7 +10,6 @@ export default function Home() {
 
 	if (!hasMounted) return null;
 
-	
 	return (
 		<>
 			<main className='bg-dark-layer-2 min-h-screen'>
